@@ -1,10 +1,8 @@
 # Handwritten Digit Recognizer (MNIST CNN)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/mnist_cnn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AadilaAnees/MNIST_Digit_Classification/blob/main/notebooks/mnist_cnn.ipynb)
 
 A convolutional neural network that classifies handwritten digits (0–9) from the MNIST dataset, built from raw idx-ubyte binary files (not the pre-packaged Keras loader) to practice real-world data ingestion, trained and evaluated end-to-end in TensorFlow/Keras.
-
-> Replace `YOUR_USERNAME/YOUR_REPO_NAME` in the badge link above with your actual GitHub path once pushed, so the badge opens your exact notebook.
 
 ## Results
 
