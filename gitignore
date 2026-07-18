@@ -1,0 +1,15 @@
+# Raw dataset files (large, publicly available, don't need to be in repo)
+*.idx1-ubyte
+*.idx3-ubyte
+data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Colab / Jupyter
+.virtual_documents/
+
+# OS files
+.DS_Store
